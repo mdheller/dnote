@@ -17,14 +17,14 @@
   "dependencies": {
     "@types/history": "^4.7.3",
     "history": "^4.10.1",
-    "lodash": "^4.17.15",
-    "qs": "^6.9.1"
+    "lodash": "^4.17.21",
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
-    "jest": "^24.9.0",
+    "jest": "^29.7.0",
     "prettier": "^1.19.1",
-    "ts-jest": "^24.2.0",
+    "ts-jest": "^29.2.4",
     "typescript": "^3.7.3"
   }
 }
